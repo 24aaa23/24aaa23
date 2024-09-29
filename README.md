@@ -1,11 +1,8 @@
 Hi 👋, I'm Aman Kumar Singh, a technology enthusiast pursuing my Masters from IIT Kanpur.  
-Aspiring Full Stack Developer | Student at IIT Kanpur  
+Aspiring ML Developer | Student at IIT Kanpur  
 
 💫 **About Me:**  
-🌱 I’m currently learning Machine Learning  
-
-👯 I’m looking to collaborate on any full stack development project  
-🤝 I’m looking for help with Web3 technology  
+🌱 I’m currently learning Machine Learning   
 
 👨‍💻 All of my projects are available at [My Portfolio]  
 
@@ -13,7 +10,7 @@ Aspiring Full Stack Developer | Student at IIT Kanpur
 📄 Know about my experiences: [Resume]  
 
 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/amankumarsingh07) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/24aaa23) | [LeetCode](your-leetcode-url) | [GitHub](your-github-url)  
+[LinkedIn](https://www.linkedin.com/in/amankumarsingh07) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/24aaa23) | [LeetCode](https://leetcode.com/u/24aa23) 
 
 💻 **Tech Stack:**  
 C++ | C | HTML5 | CSS3 | JavaScript | Python | Google Cloud | Anaconda | Bootstrap | Express.js | NodeJS | React Router | React | TailwindCSS | MongoDB | MySQL | Canva | Pandas | NumPy | scikit-learn | SciPy | LINUX | Arduino | Postman | Notion  
