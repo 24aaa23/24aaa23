@@ -15,7 +15,9 @@ All of my projects are available at [My Portfolio](your-portfolio-url)
 - Resume: [Resume](your-resume-url)  
 
 ## **Connect with me:**  
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/amankumarsingh07) [![GeeksforGeeks](https://img.icons8.com/ios/50/000000/geeks-for-geeks.png)](https://auth.geeksforgeeks.org/user/24aaa23) [![LeetCode](https://img.icons8.com/color/48/000000/leetcode.png)](https://leetcode.com/u/24aa23)
+[LinkedIn](https://www.linkedin.com/in/amankumarsingh07)  
+[GeeksforGeeks](https://auth.geeksforgeeks.org/user/24aaa23)  
+[LeetCode](https://leetcode.com/u/24aa23)
 
 ---
 
@@ -36,8 +38,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<!---
-24aaa23/24aaa23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
